@@ -23,6 +23,7 @@ This bot works by basically taking the top 3 comments of an received instagram r
 - After you have successfully completed the above following steps
 - You can run the bot by typing in `python main.py` in your terminal/command prompt
 - If your followed all the *simple instructions* that even a monkey brain can follow you will see a output like this in the terminal
+
 ![image](https://github.com/user-attachments/assets/068cb90a-9f82-48b2-a356-e914430e9c98)
 
 
