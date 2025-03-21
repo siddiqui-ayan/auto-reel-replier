@@ -17,7 +17,7 @@ This bot works by basically taking the top 3 comments of an received instagram r
 ### **3. Setting up the project**
 - After you have got everything required to run the bot, you will have to make a few changes
 - Rename `.env.example` to `.env`
-- Put the neccessary tokens/api keys that we accquired in the previous step and put in the neccessary keys
+- Put the neccessary tokens/api keys that we accquired in the previous step and put in the .env
 
 ## **4. running the bot**
 - After you have successfully completed the above following steps
